@@ -1,0 +1,33 @@
+{
+	"emails": [
+		"string"
+	],
+	"names": [
+		"string"
+	],
+	"addresses": [
+		"Address"
+	],
+	"phones": [
+		"Phone"
+	],
+	"pin": "string",
+	"barcodes": [
+		"string"
+	],
+	"patronType": "integer",
+	"expirationDate": "string",
+	"birthDate": "string",
+	"patronCodes": "Codes",
+	"blockInfo": "Block",
+	"uniqueIds": [
+		"string"
+	],
+	"pMessage": "string",
+	"homeLibraryCode": "string",
+	"langPref": "string",
+	"fixedFields": "map",
+	"varFields": [
+		"VarField"
+	]
+}
