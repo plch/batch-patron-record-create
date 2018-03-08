@@ -1,0 +1,239 @@
+{
+  "total": 1,
+  "entries": [
+    {
+      "id": 2284622,
+      "updatedDate": "2018-03-08T18:36:08Z",
+      "createdDate": "2018-03-08T15:00:32Z",
+      "deleted": false,
+      "suppressed": false,
+      "names": [
+        "Generator, Card"
+      ],
+      "barcodes": [
+        "88881234567890"
+      ],
+      "expirationDate": "2018-12-31",
+      "birthDate": "2000-01-01",
+      "patronType": 0,
+      "patronCodes": {
+        "pcode1": "n",
+        "pcode2": "n",
+        "pcode3": 1,
+        "pcode4": 0
+      },
+      "homeLibraryCode": "1",
+      "message": {
+        "code": "-"
+      },
+      "blockInfo": {
+        "code": "-"
+      },
+      "addresses": [
+        {
+          "lines": [
+            "800 Vine St",
+            "Cincinnati, OH 45202"
+          ],
+          "type": "a"
+        }
+      ],
+      "phones": [
+        {
+          "number": "9999999999",
+          "type": "t"
+        }
+      ],
+      "moneyOwed": 0,
+      "fixedFields": {
+        "43": {
+          "label": "Expiration Date",
+          "value": "2018-12-31T09:00:00Z"
+        },
+        "44": {
+          "label": "E-Lib Update? (P1)",
+          "value": "n"
+        },
+        "45": {
+          "label": "Friends? (P2)",
+          "value": "n"
+        },
+        "46": {
+          "label": "Foundation? (P3)",
+          "value": "1"
+        },
+        "47": {
+          "label": "Patron Type",
+          "value": "0"
+        },
+        "48": {
+          "label": "Total Checkouts",
+          "value": "0"
+        },
+        "49": {
+          "label": "Total Renewals",
+          "value": "0"
+        },
+        "50": {
+          "label": "Current Checkouts",
+          "value": "0"
+        },
+        "51": {
+          "label": "Birth Date",
+          "value": "2000-01-01"
+        },
+        "53": {
+          "label": "Home Library",
+          "value": "1    "
+        },
+        "54": {
+          "label": "Patron Message",
+          "value": "-"
+        },
+        "55": {
+          "label": "Highest Overdues",
+          "value": "0"
+        },
+        "56": {
+          "label": "Manual Block",
+          "value": "-"
+        },
+        "80": {
+          "label": "Record Type",
+          "value": "p"
+        },
+        "81": {
+          "label": "Record Number",
+          "value": "2284622"
+        },
+        "83": {
+          "label": "Created Date",
+          "value": "2018-03-08T15:00:32Z"
+        },
+        "84": {
+          "label": "Updated Date",
+          "value": "2018-03-08T18:36:08Z"
+        },
+        "85": {
+          "label": "No. of Revisions",
+          "value": "2"
+        },
+        "86": {
+          "label": "Agency",
+          "value": "1",
+          "display": "Main Library"
+        },
+        "95": {
+          "label": "Claims Returned",
+          "value": "0"
+        },
+        "96": {
+          "label": "Money Owed",
+          "value": "0.000000"
+        },
+        "98": {
+          "label": "PDATE",
+          "value": "2018-03-08T15:00:00Z"
+        },
+        "99": {
+          "label": "FIRM",
+          "value": "     "
+        },
+        "102": {
+          "label": "New Rel DVDs (A)",
+          "value": "0"
+        },
+        "103": {
+          "label": "Mobile Hotspot (B)",
+          "value": "0"
+        },
+        "104": {
+          "label": "PIUSE",
+          "value": "0"
+        },
+        "105": {
+          "label": "Overdue Penalty",
+          "value": "0"
+        },
+        "122": {
+          "label": "ILL Request",
+          "value": "0"
+        },
+        "123": {
+          "label": "Debit Balance",
+          "value": "0.000000"
+        },
+        "124": {
+          "label": "Playaways (C)",
+          "value": "0"
+        },
+        "125": {
+          "label": "Playaway Vwrs (D)",
+          "value": "0"
+        },
+        "126": {
+          "label": "County (P4)",
+          "value": "0"
+        },
+        "158": {
+          "label": "Patron Agency",
+          "value": "1"
+        },
+        "263": {
+          "label": "Preferred Language",
+          "value": "   "
+        },
+        "268": {
+          "label": "Notice Preference",
+          "value": "a"
+        },
+        "269": {
+          "label": "Registrations on Record",
+          "value": "0"
+        },
+        "270": {
+          "label": "Total Registrations",
+          "value": "0"
+        },
+        "271": {
+          "label": "Total Programs Attended",
+          "value": "0"
+        },
+        "297": {
+          "label": "Waitlists on Record",
+          "value": "0"
+        }
+      },
+      "varFields": [
+        {
+          "fieldTag": "=",
+          "content": "PDotYNKv/8ejw"
+        },
+        {
+          "fieldTag": "b",
+          "content": "88881234567890"
+        },
+        {
+          "fieldTag": "d",
+          "content": "01012000"
+        },
+        {
+          "fieldTag": "x",
+          "content": "Created for Carnegie Center Laptop Kiosk Checkout"
+        },
+        {
+          "fieldTag": "a",
+          "content": "800 Vine St$Cincinnati, OH 45202"
+        },
+        {
+          "fieldTag": "n",
+          "content": "Generator, Card"
+        },
+        {
+          "fieldTag": "t",
+          "content": "9999999999"
+        }
+      ]
+    }
+  ]
+}
