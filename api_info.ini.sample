@@ -1,0 +1,4 @@
+[api]
+  base_url = https://sierra-app.your_library.org/iii/sierra-api/v5
+  client_key = CLIENT_KEY_HERE
+  client_secret = CLIENT_SECRET_HERE
