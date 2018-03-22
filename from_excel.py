@@ -38,21 +38,22 @@ class Patron:
             # "expirationDate": str(expiration_date),
             "expirationDate": expiration_date.strftime('%Y-%m-%d'),
             "patronCodes": {
- 		        "pcode1": str(patron_codes_p1),
+                "pcode1": str(patron_codes_p1),
                 "pcode2": str(patron_codes_p2),
                 "pcode3": int(patron_codes_p3),
                 "pcode4": int(patron_codes_p4)
             },
             "varFields": [{
-     		     "fieldTag": "x",
-     		     "content": str(note)
+                "fieldTag": "x",
+                "content": str(note)
             }],
             "patronType": int(patron_type),
             # "birthDate": str(birth_date),
+            # dates should be in the format YYYY-MM-DD
             "birthDate": birth_date.strftime('%Y-%m-%d'),
             "homeLibraryCode": str(home_library_code),
             "blockInfo": {
- 		         "code": str(block_info)
+                "code": str(block_info)
             },
             "names": [
  		         str(last_name) + ", " + str(first_name)
